@@ -645,6 +645,16 @@ img[height] {
   width: 2.8rem;
 }
 
+.o-media--block > .o-media__assessment {
+  margin-left: 0;
+  margin-right: 0;
+  width: 8rem;
+}
+
+.o-media--block > .o-media__assessment small {
+  font-size: .5em;
+}
+
 .o-container {
   max-width: 1276px;
   margin: 0 auto;
